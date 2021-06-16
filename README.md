@@ -1,1 +1,1 @@
-# ROCKET DUEL is a haper casual game made using unity3d
+# ROCKET DUEL is a hyper casual game made using unity3d
